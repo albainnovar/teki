@@ -1,1 +1,1 @@
-Az egyes sorszámokkal jelölt könyvtárak a szakköri alkalmak sorszámai.
+Az egyes dátumokkal jelölt könyvtárak a szakköri alkalmak dátumai.
