@@ -1,7 +1,9 @@
 # coding: utf-8
-from __future__ import division   # Python 2.x-hez kell
+from __future__ import division  # Python 2.x-hez kell
+
 from turtle import Turtle
-from veletlenszin import veletlenszin
+
+from modul_es_osztaly.veletlenszin import veletlenszin
 
 
 def sokszog(oldalszam, oldalhossz, teki):
@@ -26,7 +28,7 @@ def negyzetracs(oldalhossz, oszlop, sor, teki):
         teki.left(90)
 
 
-from random import choice, random
+from random import choice
 
 szinek = "red green blue cyan yellow magenta black orange brown".split()
 
