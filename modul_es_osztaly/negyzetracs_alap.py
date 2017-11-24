@@ -3,7 +3,7 @@ from __future__ import division  # Python 2.x-hez kell
 
 from turtle import Turtle
 
-from modul_es_osztaly.veletlenszin import veletlenszin
+from veletlenszin import veletlenszin
 
 
 def sokszog(oldalszam, oldalhossz, teki):

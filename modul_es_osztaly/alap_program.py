@@ -8,8 +8,9 @@ from negyzetracs_alap import negyzetracs
 lali = Turtle("turtle")
 negyzetracs(33, 4, 2, lali)
 
-from modul_es_osztaly.myturtle_alap import MyTurtle
-from modul_es_osztaly.veletlenszin import veletlenszin
+from myturtle_alap import MyTurtle
+from veletlenszin import veletlenszin
+
 ili = MyTurtle("turtle")
 ili.color(veletlenszin())
 ili.negyzet(70)
